@@ -3,7 +3,7 @@
    ![Original ECG Signal](original_ecg_signal.png)
 
    It was requested to add three different noise to the orijinal ECG signal
-   - Random noise at 50 Hz
+   - **Random noise at 50 Hz**
    - **Random low frequency noise below 0.05 Hz**
    - **Random high frequency noise above 150 Hz**
 
@@ -15,5 +15,3 @@
 
    The **filter.txt** file is a data file representing the filtered ECG signal
    ![Filtered ECG Signal](filtered_ecg_signal.png)
-
-> The material, shape, and sizes of the above construction components are not specified in order to allow flexibility in material selection. The elevator can be constructed using suitable materials.
